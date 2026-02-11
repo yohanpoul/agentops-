@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/agentops.egg-info/PKG-INFO
+src/agentops.egg-info/SOURCES.txt
+src/agentops.egg-info/dependency_links.txt
+src/agentops.egg-info/requires.txt
+src/agentops.egg-info/top_level.txt

@@ -1,3 +1,27 @@
+Metadata-Version: 2.1
+Name: agentops
+Version: 0.1.0
+Summary: Open Source Monitoring for AI Agents in Production
+Home-page: https://github.com/agentops/agentops
+Author: AgentOps Team
+Author-email: hello@agentops.dev
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
 # AgentOps
 
 **Open Source Monitoring for AI Agents in Production**
@@ -133,3 +157,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 **Built with ❤️ for the AI agent community**
 
 *Note: This is a beta release. APIs may change.*
+
+
